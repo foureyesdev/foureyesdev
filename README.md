@@ -1,6 +1,5 @@
 # Hi there, I'm Lorena 👋
 
-## 🚀 About Me
 - 🎓 Computer Science Student
 - 💻 Passionate about coding and building projects
 - 🌱 Currently learning SQL and Python
