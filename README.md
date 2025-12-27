@@ -10,9 +10,15 @@
 
 ## 📊 GitHub Stats
 
-![Lorena's GitHub Stats](https://github-readme-stats-foureyesdev.vercel.app/api?username=foureyesdev&show_icons=true&theme=algolia)
+![Lorena's GitHub Stats](https://github-readme-stats-foureyesdev.vercel.app/api?username=foureyesdev&show_icons=true&theme=rose)
 
-![Top Languages](https://github-readme-stats-foureyesdev.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&theme=algolia)
+![Top Languages](https://github-readme-stats-foureyesdev.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&theme=rose)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foureyesdev/foureyesdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/foureyesdev/foureyesdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/foureyesdev/foureyesdev/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📫 How to reach me
 
