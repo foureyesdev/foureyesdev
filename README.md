@@ -15,9 +15,9 @@
 ![Top Languages](https://github-readme-stats-foureyesdev.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&theme=rose)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foureyesdev/foureyesdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/foureyesdev/foureyesdev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/foureyesdev/foureyesdev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foureyesdev/foureyesdev/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/foureyesdev/foureyesdev/blob/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/foureyesdev/foureyesdev/blob/output/github-snake.svg">
 </picture>
 
 ## 📫 How to reach me
