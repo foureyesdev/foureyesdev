@@ -14,9 +14,9 @@
 
 ## 📊 GitHub Stats
 
-![Lorena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=foureyesdev&show_icons=true&theme=algolia)
+![Lorena's GitHub Stats](https://github-readme-stats-foureyesdev.vercel.app/api?username=foureyesdev&show_icons=true&theme=algolia)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&theme=algolia)
+![Top Languages](https://github-readme-stats-foureyesdev.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&theme=algolia)
 
 ## 📫 How to reach me
 
