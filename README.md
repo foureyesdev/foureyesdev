@@ -1,15 +1,15 @@
-# Hi there, I'm Lorena 👋
+## Hi there, I'm Lorena 👋
 
 - 🎓 Computer Science Student
 - 💻 Passionate about coding and building projects
 - 🌱 Currently learning Java and Spring
 
-## 🛠️ Technologies & Tools
+🛠️ **Technologies & Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 
-## 📊 GitHub Stats
+📊 **GitHub Stats**
 
 ![Lorena's GitHub Stats](https://github-readme-stats-foureyesdev.vercel.app/api?username=foureyesdev&show_icons=true&hide_rank=true&title_color=4DFFBE&text_color=F5F5F5&icon_color=FF2DD1&border_color=4E4B66&bg_color=262338)
 
