@@ -1,4 +1,4 @@
-## Hi there, I'm Lorena 👋
+# Hi there, I'm Lorena 👋
 
 - 🎓 Computer Science Student
 - 💻 Passionate about coding and building projects
@@ -8,16 +8,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
-
 📊 **GitHub Stats**
 
-![Lorena's GitHub Stats](https://github-readme-stats-foureyesdev.vercel.app/api?username=foureyesdev&show_icons=true&hide_rank=true&title_color=4DFFBE&text_color=F5F5F5&icon_color=FF2DD1&border_color=4E4B66&bg_color=262338)
+![Lorena's GitHub Stats](https://github-readme-stats-foureyesdev.vercel.app/api?username=foureyesdev&show_icons=true&hide_rank=true&title_color=4DFFBE&text_color=F5F5F5&icon_color=FF2DD1&bg_color=262338&border_color=4E4B66)
 
-![Top Languages](https://github-readme-stats-foureyesdev.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&title_color=4DFFBE&text_color=F5F5F5&border_color=4E4B66&bg_color=262338)
+![Top Languages](https://github-readme-stats-foureyesdev.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&title_color=4DFFBE&text_color=F5F5F5&bg_color=262338&border_color=4E4B66)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -33,8 +30,7 @@ Unknown Editor           0 secs              ███████████�
 Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
-
- Last Updated on 28/12/2025 21:21:47 UTC
+ Last Updated on 28/12/2025 21:29:34 UTC
 <!--END_SECTION:waka-->
 
 
