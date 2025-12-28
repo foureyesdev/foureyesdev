@@ -16,8 +16,6 @@
 ![Top Languages](https://github-readme-stats-foureyesdev.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&title_color=4DFFBE&text_color=F5F5F5&border_color=4E4B66&bg_color=262338)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -34,7 +32,7 @@ Windows                  0 secs              ███████████�
 ```
 
 
- Last Updated on 28/12/2025 21:21:47 UTC
+ Last Updated on 28/12/2025 21:29:34 UTC
 <!--END_SECTION:waka-->
 
 
