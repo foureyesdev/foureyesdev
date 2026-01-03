@@ -15,27 +15,8 @@
 ![Top Languages](https://github-readme-stats-foureyesdev.vercel.app/api/top-langs/?username=foureyesdev&layout=compact&title_color=4DFFBE&text_color=F5F5F5&bg_color=262338&border_color=4E4B66)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Java                     2 hrs 47 mins       █████████████████░░░░░░░░   67.08 % 
-Markdown                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.24 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-🔥 Editors: 
-IntelliJ IDEA            2 hrs 47 mins       █████████████████░░░░░░░░   67.07 % 
-VS Code                  1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/01/2026 18:53:02 UTC
+ Last Updated on 03/01/2026 18:52:17 UTC
 <!--END_SECTION:waka-->
 
 
