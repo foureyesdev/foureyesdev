@@ -21,21 +21,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Properties               12 mins             ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-XML                      11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-HTML                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Java                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Java                     3 hrs 13 mins       ███████████████░░░░░░░░░░   61.64 % 
+Java Properties          59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Properties               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-IntelliJ IDEA            34 mins             ███████████████████░░░░░░   75.68 % 
-VS Code                  11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+IntelliJ IDEA            5 hrs 2 mins        ████████████████████████░   96.47 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/02/2026 19:22:47 UTC
+ Last Updated on 06/02/2026 19:23:10 UTC
 <!--END_SECTION:waka-->
 
 
