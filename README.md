@@ -21,22 +21,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     8 hrs 24 mins       █████████████████████░░░░   85.32 % 
-SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-GitIgnore file           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Java                     8 hrs 24 mins       █████████████████████░░░░   85.91 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+GitIgnore file           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 44 mins       █████████████████████████   98.79 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+IntelliJ IDEA            9 hrs 44 mins       █████████████████████████   99.48 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  9 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/02/2026 19:02:41 UTC
+ Last Updated on 16/02/2026 19:11:58 UTC
 <!--END_SECTION:waka-->
 
 
