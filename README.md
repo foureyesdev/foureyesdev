@@ -21,23 +21,23 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.02 % 
-Docker                   1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-PHP                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+YAML                     2 hrs 44 mins       █████████████░░░░░░░░░░░░   51.58 % 
+Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+PHP                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Docker                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 49 mins       █████████████████████████   98.28 % 
-IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+VS Code                  5 hrs 12 mins       ████████████████████████░   97.75 % 
+IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Windows                  6 hrs 52 mins       █████████████████████████   98.92 % 
-Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Windows                  5 hrs 15 mins       █████████████████████████   98.59 % 
+Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
- Last Updated on 23/02/2026 19:39:35 UTC
+ Last Updated on 24/02/2026 19:31:31 UTC
 <!--END_SECTION:waka-->
 
 
