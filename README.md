@@ -21,18 +21,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     4 mins              ██████████████████████░░░   89.99 % 
-Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/03/2026 18:58:00 UTC
+ Last Updated on 02/03/2026 19:21:47 UTC
 <!--END_SECTION:waka-->
 
 
