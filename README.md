@@ -21,17 +21,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 54 mins        ████████████████████████░   95.52 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 19:22:24 UTC
+ Last Updated on 04/04/2026 19:08:56 UTC
 <!--END_SECTION:waka-->
 
 
