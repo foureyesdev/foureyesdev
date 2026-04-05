@@ -21,21 +21,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     1 hr 54 mins        ████████████████████████░   95.52 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Java                     2 hrs 19 mins       ████████████████████████░   96.28 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████░░░░   83.03 % 
+IntelliJ IDEA            24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
 
 💻 Operating System: 
-Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/04/2026 19:08:56 UTC
+ Last Updated on 05/04/2026 19:11:43 UTC
 <!--END_SECTION:waka-->
 
 
