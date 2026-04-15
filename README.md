@@ -21,17 +21,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████████████████   100.00 % 
+Markdown                 8 mins              █████████████░░░░░░░░░░░░   52.67 % 
+Groovy                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Java                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            8 mins              █████████████░░░░░░░░░░░░   51.25 % 
+VS Code                  8 mins              ████████████░░░░░░░░░░░░░   48.75 % 
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 19:49:24 UTC
+ Last Updated on 15/04/2026 19:49:38 UTC
 <!--END_SECTION:waka-->
 
 
