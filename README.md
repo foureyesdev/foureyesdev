@@ -9,6 +9,30 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%205%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 119 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 44 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                19 commits          █████████░░░░░░░░░░░░░░░░   37.25 % 
+🌆 Daytime                19 commits          █████████░░░░░░░░░░░░░░░░   37.25 % 
+🌃 Evening                13 commits          ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -30,7 +54,7 @@ Linux                    2 hrs 40 mins       ███████████�
 ```
 
 
- Last Updated on 23/04/2026 13:58:07 UTC
+ Last Updated on 23/04/2026 14:11:25 UTC
 <!--END_SECTION:waka-->
 
 
