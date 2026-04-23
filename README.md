@@ -15,22 +15,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     8 hrs 24 mins       ████████████████████░░░░░   79.19 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Java                     1 hr 17 mins        ████████████░░░░░░░░░░░░░   48.55 % 
+Markdown                 1 hr 15 mins        ████████████░░░░░░░░░░░░░   46.98 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 31 mins      █████████████████████████   99.02 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+IntelliJ IDEA            2 hrs 34 mins       ████████████████████████░   96.09 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 💻 Operating System: 
-Linux                    10 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 19:46:23 UTC
+ Last Updated on 23/04/2026 13:58:07 UTC
 <!--END_SECTION:waka-->
 
 
