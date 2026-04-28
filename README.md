@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 121 Bytes Used in GitHub's Storage 
+> 📦 122 Bytes Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -39,21 +39,19 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     11 mins             ██████████████░░░░░░░░░░░   55.20 % 
-JavaScript               5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+YAML                     11 mins             ███████████████████░░░░░░   77.80 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 19:53:21 UTC
+ Last Updated on 28/04/2026 20:00:36 UTC
 <!--END_SECTION:waka-->
 
 
