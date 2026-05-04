@@ -39,17 +39,19 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     6 mins              ███████████████████░░░░░░   75.71 % 
+GitIgnore file           2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/05/2026 19:32:37 UTC
+ Last Updated on 04/05/2026 20:00:29 UTC
 <!--END_SECTION:waka-->
 
 
