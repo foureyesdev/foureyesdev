@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,7 +51,7 @@ Linux                    9 mins              ███████████�
 ```
 
 
- Last Updated on 06/05/2026 20:07:53 UTC
+ Last Updated on 07/05/2026 19:58:23 UTC
 <!--END_SECTION:waka-->
 
 
