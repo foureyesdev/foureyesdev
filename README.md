@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 126 Bytes Used in GitHub's Storage 
+> 📦 127 Bytes Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2026
+> 🏆 66 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,21 +39,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     1 hr 58 mins        █████████████████████░░░░   82.71 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Java                     4 hrs 34 mins       ██████████████████████░░░   87.28 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 23 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/05/2026 19:51:44 UTC
+ Last Updated on 09/05/2026 19:39:07 UTC
 <!--END_SECTION:waka-->
 
 
