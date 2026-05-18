@@ -9,13 +9,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 139 Bytes Used in GitHub's Storage 
+> 📦 140 Bytes Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2026
+> 🏆 86 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,22 +39,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     14 hrs 35 mins      ████████████████░░░░░░░░░   65.68 % 
-SQL                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-HTML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-GitIgnore file           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Java                     14 hrs 36 mins      ████████████████░░░░░░░░░   65.31 % 
+SQL                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+HTML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+GitIgnore file           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 hrs 3 mins       ███████████████████████░░   90.25 % 
-VS Code                  2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+IntelliJ IDEA            20 hrs 4 mins       ██████████████████████░░░   89.72 % 
+VS Code                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 
 💻 Operating System: 
-Linux                    22 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/05/2026 19:43:29 UTC
+ Last Updated on 18/05/2026 20:10:21 UTC
 <!--END_SECTION:waka-->
 
 
