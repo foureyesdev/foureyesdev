@@ -15,7 +15,7 @@
 
 > 📦 140 Bytes Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2026
+> 🏆 95 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,9 +26,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                29 commits          ████████░░░░░░░░░░░░░░░░░   30.53 % 
-🌆 Daytime                51 commits          █████████████░░░░░░░░░░░░   53.68 % 
-🌃 Evening                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌞 Morning                37 commits          ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+🌆 Daytime                85 commits          ███████████████░░░░░░░░░░   60.71 % 
+🌃 Evening                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -39,22 +39,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     14 hrs 36 mins      ████████████████░░░░░░░░░   65.31 % 
-SQL                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-HTML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-GitIgnore file           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Java                     15 hrs 45 mins      ███████████████████░░░░░░   74.09 % 
+SQL                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 hrs 4 mins       ██████████████████████░░░   89.72 % 
-VS Code                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+IntelliJ IDEA            19 hrs 35 mins      ███████████████████████░░   92.16 % 
+VS Code                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 💻 Operating System: 
-Linux                    22 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/05/2026 20:10:21 UTC
+ Last Updated on 19/05/2026 20:11:40 UTC
 <!--END_SECTION:waka-->
 
 
