@@ -39,21 +39,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     13 hrs 38 mins      █████████████████████░░░░   83.49 % 
-SQL                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Java                     8 hrs 38 mins       █████████████████████░░░░   83.67 % 
+SQL                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 7 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            10 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 20:33:36 UTC
+ Last Updated on 21/05/2026 20:17:40 UTC
 <!--END_SECTION:waka-->
 
 
