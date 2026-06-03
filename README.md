@@ -9,26 +9,26 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 172 Bytes Used in GitHub's Storage 
+> 📦 173 Bytes Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2026
+> 🏆 119 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                39 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌆 Daytime                92 commits          ███████████████░░░░░░░░░░   58.97 % 
-🌃 Evening                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+🌞 Morning                39 commits          ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+🌆 Daytime                93 commits          ███████████████░░░░░░░░░░   59.24 % 
+🌃 Evening                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -54,7 +54,7 @@ Linux                    16 hrs 47 mins      ███████████�
 ```
 
 
- Last Updated on 02/06/2026 21:28:12 UTC
+ Last Updated on 03/06/2026 21:34:29 UTC
 <!--END_SECTION:waka-->
 
 
