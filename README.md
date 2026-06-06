@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,22 +39,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     14 hrs 26 mins      █████████████████████░░░░   82.02 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-GitIgnore file           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Java                     11 hrs 40 mins      ████████████████████░░░░░   78.49 % 
+SQL                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Java Properties          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+GitIgnore file           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 29 mins      █████████████████████████   99.41 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+IntelliJ IDEA            14 hrs 50 mins      █████████████████████████   99.78 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Linux                    17 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/06/2026 20:22:28 UTC
+ Last Updated on 06/06/2026 19:52:05 UTC
 <!--END_SECTION:waka-->
 
 
