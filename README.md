@@ -9,26 +9,26 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 174 Bytes Used in GitHub's Storage 
+> 📦 184 Bytes Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2026
+> 🏆 130 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                41 commits          ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-🌆 Daytime                92 commits          ██████████████░░░░░░░░░░░   56.79 % 
-🌃 Evening                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+🌞 Morning                42 commits          ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌆 Daytime                94 commits          ██████████████░░░░░░░░░░░   56.29 % 
+🌃 Evening                31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -39,22 +39,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     14 hrs 7 mins       █████████████████████░░░░   83.48 % 
-Java Properties          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-SQL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Properties               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Java                     9 hrs 26 mins       ██████████████████░░░░░░░   73.75 % 
+JavaScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Java Properties          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Properties               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+GitIgnore file           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 53 mins      █████████████████████████   99.81 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+IntelliJ IDEA            11 hrs 17 mins      ██████████████████████░░░   88.24 % 
+VS Code                  1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 
 💻 Operating System: 
-Linux                    16 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/06/2026 20:37:54 UTC
+ Last Updated on 09/06/2026 20:24:35 UTC
 <!--END_SECTION:waka-->
 
 
