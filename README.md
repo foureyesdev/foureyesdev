@@ -9,13 +9,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 629 Bytes Used in GitHub's Storage 
+> 📦 656 Bytes Used in GitHub's Storage 
  > 
-> 🏆 254 Contributions in the Year 2026
+> 🏆 258 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,10 +26,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                75 commits          ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-🌆 Daytime                151 commits         █████████████░░░░░░░░░░░░   52.61 % 
-🌃 Evening                55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+🌞 Morning                75 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌆 Daytime                152 commits         █████████████░░░░░░░░░░░░   52.23 % 
+🌃 Evening                58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 
@@ -39,19 +39,19 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     19 hrs 59 mins      █████████████████████████   99.97 % 
+Java                     21 hrs 48 mins      █████████████████████████   99.97 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2026 20:20:50 UTC
+ Last Updated on 07/07/2026 20:21:58 UTC
 <!--END_SECTION:waka-->
 
 
