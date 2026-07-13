@@ -9,11 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 659 Bytes Used in GitHub's Storage 
+> 📦 660 Bytes Used in GitHub's Storage 
  > 
 > 🏆 259 Contributions in the Year 2026
  > 
@@ -39,22 +39,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     27 hrs 8 mins       ████████████████████████░   96.68 % 
-XML                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Java                     28 hrs 14 mins      ████████████████████████░   96.04 % 
+XML                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 17 mins      ███████████████░░░░░░░░░░   61.58 % 
-VS Code                  10 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   38.42 % 
+IntelliJ IDEA            21 hrs 55 mins      ███████████████████░░░░░░   74.56 % 
+VS Code                  7 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
 
 💻 Operating System: 
-Windows                  28 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  29 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/07/2026 19:36:57 UTC
+ Last Updated on 13/07/2026 19:56:14 UTC
 <!--END_SECTION:waka-->
 
 
