@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,20 +39,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     29 hrs 34 mins      ████████████████████████░   97.81 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Java                     33 hrs 26 mins      ████████████████████████░   97.39 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ IDEA            30 hrs 14 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            33 hrs 53 mins      █████████████████████████   98.67 % 
+Copilot CLI              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Windows                  30 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/07/2026 19:39:32 UTC
+ Last Updated on 19/07/2026 19:38:39 UTC
 <!--END_SECTION:waka-->
 
 
