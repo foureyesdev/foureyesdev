@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 662 Bytes Used in GitHub's Storage 
+> 📦 663 Bytes Used in GitHub's Storage 
  > 
 > 🏆 259 Contributions in the Year 2026
  > 
@@ -39,21 +39,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     33 hrs 26 mins      ████████████████████████░   97.39 % 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     29 hrs 44 mins      ████████████████████████░   97.81 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            33 hrs 53 mins      █████████████████████████   98.67 % 
-Copilot CLI              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+IntelliJ IDEA            29 hrs 57 mins      █████████████████████████   98.50 % 
+Copilot CLI              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Windows                  34 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 19:38:39 UTC
+ Last Updated on 20/07/2026 20:03:28 UTC
 <!--END_SECTION:waka-->
 
 
