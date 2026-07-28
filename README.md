@@ -9,13 +9,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 663 Bytes Used in GitHub's Storage 
+> 📦 664 Bytes Used in GitHub's Storage 
  > 
 > 🏆 259 Contributions in the Year 2026
  > 
@@ -41,46 +41,46 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     20 hrs 35 mins      █████████████████████░░░░   84.29 % 
-SQL                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Java                     16 hrs 59 mins      ████████████████░░░░░░░░░   65.71 % 
+SQL                      5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+YAML                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 19 mins      ██████████████████████░░░   87.31 % 
-VS Code                  2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+IntelliJ IDEA            17 hrs 51 mins      █████████████████░░░░░░░░   69.03 % 
+VS Code                  7 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  24 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (0.66%)
+⏱ AI Coding Time: 2 mins (0.18%)
 
-✍️ 0 lines written by AI, 2,771 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,982 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 9,946 Output Tokens
+🔤 0 Input Tokens, 7,446 Output Tokens
 
-💵 $1.01 Estimated AI Cost This Week
+💵 $0.93 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 52 characters per prompt
+📝 Concise Prompter — average 66 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 20:02:20 UTC
+ Last Updated on 28/07/2026 19:58:27 UTC
 <!--END_SECTION:waka-->
 
 
