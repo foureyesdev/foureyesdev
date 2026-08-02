@@ -9,13 +9,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 666 Bytes Used in GitHub's Storage 
+> 📦 667 Bytes Used in GitHub's Storage 
  > 
 > 🏆 259 Contributions in the Year 2026
  > 
@@ -41,18 +41,18 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      14 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.83 % 
-Markdown                 5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-HTML                     4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-YAML                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-CSS                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+SQL                      14 hrs 14 mins      ███████████░░░░░░░░░░░░░░   42.84 % 
+HTML                     6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Markdown                 5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+CSS                      4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 47 mins      █████████████████████████   98.74 % 
-IntelliJ IDEA            22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+VS Code                  32 hrs 52 mins      █████████████████████████   98.90 % 
+IntelliJ IDEA            21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Windows                  29 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  33 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -62,7 +62,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/08/2026 19:40:49 UTC
+ Last Updated on 02/08/2026 19:41:17 UTC
 <!--END_SECTION:waka-->
 
 
