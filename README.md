@@ -9,13 +9,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 668 Bytes Used in GitHub's Storage 
+> 📦 669 Bytes Used in GitHub's Storage 
  > 
 > 🏆 259 Contributions in the Year 2026
  > 
@@ -41,18 +41,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      18 hrs 45 mins      █████████████░░░░░░░░░░░░   52.96 % 
-HTML                     14 hrs 1 min        ██████████░░░░░░░░░░░░░░░   39.56 % 
-SQL                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Text                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+CSS                      18 hrs 45 mins      █████████████░░░░░░░░░░░░   53.24 % 
+HTML                     14 hrs 1 min        ██████████░░░░░░░░░░░░░░░   39.77 % 
+JavaScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Text                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 16 mins      █████████████████████████   99.55 % 
-IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+VS Code                  35 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  35 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -62,7 +61,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2026 00:21:45 UTC
+ Last Updated on 07/08/2026 19:26:48 UTC
 <!--END_SECTION:waka-->
 
 
