@@ -9,13 +9,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 669 Bytes Used in GitHub's Storage 
+> 📦 670 Bytes Used in GitHub's Storage 
  > 
 > 🏆 259 Contributions in the Year 2026
  > 
@@ -41,17 +41,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      17 hrs 14 mins      ██████████████░░░░░░░░░░░   54.58 % 
-HTML                     9 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
-JavaScript               4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+CSS                      14 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.68 % 
+HTML                     7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+JavaScript               7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  31 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -61,7 +61,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/08/2026 19:07:12 UTC
+ Last Updated on 09/08/2026 19:10:05 UTC
 <!--END_SECTION:waka-->
 
 
