@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 675 Bytes Used in GitHub's Storage 
+> 📦 676 Bytes Used in GitHub's Storage 
  > 
 > 🏆 260 Contributions in the Year 2026
  > 
@@ -39,21 +39,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               19 hrs 47 mins      ██████████████████████░░░   88.63 % 
-HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JavaScript               16 hrs 56 mins      ██████████████████████░░░   87.83 % 
+HTML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/08/2026 18:53:56 UTC
+ Last Updated on 16/08/2026 18:52:59 UTC
 <!--END_SECTION:waka-->
 
 
