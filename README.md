@@ -9,11 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 676 Bytes Used in GitHub's Storage 
+> 📦 677 Bytes Used in GitHub's Storage 
  > 
 > 🏆 260 Contributions in the Year 2026
  > 
@@ -39,21 +39,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               12 hrs 34 mins      █████████████████████░░░░   84.57 % 
-HTML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+JavaScript               9 hrs 23 mins       ████████████████░░░░░░░░░   64.21 % 
+CSS                      2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+HTML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/08/2026 19:06:24 UTC
+ Last Updated on 18/08/2026 19:05:45 UTC
 <!--END_SECTION:waka-->
 
 
