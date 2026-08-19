@@ -39,21 +39,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               9 hrs 23 mins       ████████████████░░░░░░░░░   64.21 % 
-CSS                      2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-HTML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+JavaScript               4 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.16 % 
+CSS                      2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
+HTML                     1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/08/2026 19:05:45 UTC
+ Last Updated on 19/08/2026 19:00:49 UTC
 <!--END_SECTION:waka-->
 
 
