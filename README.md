@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 680 Bytes Used in GitHub's Storage 
+> 📦 682 Bytes Used in GitHub's Storage 
  > 
 > 🏆 260 Contributions in the Year 2026
  > 
@@ -39,22 +39,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               12 hrs 4 mins       ████████████████████████░   97.34 % 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               4 hrs 31 mins       █████████████████████████   99.39 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 24 mins      █████████████████████████   100.00 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  4 hrs 33 mins       █████████████████████████   99.99 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  12 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/08/2026 21:02:30 UTC
+ Last Updated on 30/08/2026 21:18:25 UTC
 <!--END_SECTION:waka-->
 
 
