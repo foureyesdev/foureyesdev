@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 688 Bytes Used in GitHub's Storage 
+> 📦 689 Bytes Used in GitHub's Storage 
  > 
 > 🏆 260 Contributions in the Year 2026
  > 
@@ -39,20 +39,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               43 mins             ██████████████████████░░░   88.56 % 
-XML                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               43 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  43 mins             ██████████████████████░░░   88.56 % 
-IntelliJ IDEA            5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/09/2026 21:04:12 UTC
+ Last Updated on 19/09/2026 20:53:09 UTC
 <!--END_SECTION:waka-->
 
 
