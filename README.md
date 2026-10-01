@@ -9,26 +9,26 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 692 Bytes Used in GitHub's Storage 
+> 📦 695 Bytes Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2026
+> 🏆 262 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                76 commits          ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-🌆 Daytime                152 commits         █████████████░░░░░░░░░░░░   52.05 % 
-🌃 Evening                58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+🌞 Morning                77 commits          ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+🌆 Daytime                152 commits         █████████████░░░░░░░░░░░░   51.88 % 
+🌃 Evening                58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
 🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 
@@ -39,17 +39,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     5 mins              █████████████░░░░░░░░░░░░   53.63 % 
+Other                    4 mins              ███████████░░░░░░░░░░░░░░   43.57 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             ████████████████████████░   94.64 % 
+IntelliJ IDEA            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/09/2026 22:26:52 UTC
+ Last Updated on 01/10/2026 22:49:02 UTC
 <!--END_SECTION:waka-->
 
 
