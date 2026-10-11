@@ -9,11 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 736 Bytes Used in GitHub's Storage 
+> 📦 737 Bytes Used in GitHub's Storage 
  > 
 > 🏆 274 Contributions in the Year 2026
  > 
@@ -39,24 +39,24 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     16 hrs 31 mins      ███████████████████████░░   93.88 % 
-GitIgnore file           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-CLASS                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Java                     16 hrs 57 mins      ███████████████████████░░   91.20 % 
+GitIgnore file           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 12 mins      ████████████████████████░   97.71 % 
-VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+IntelliJ IDEA            17 hrs 36 mins      ████████████████████████░   94.74 % 
+VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/10/2026 21:54:15 UTC
+ Last Updated on 11/10/2026 22:11:26 UTC
 <!--END_SECTION:waka-->
 
 
