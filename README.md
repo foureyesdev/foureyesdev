@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 737 Bytes Used in GitHub's Storage 
+> 📦 738 Bytes Used in GitHub's Storage 
  > 
 > 🏆 274 Contributions in the Year 2026
  > 
@@ -39,24 +39,24 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     17 hrs 29 mins      ███████████████████████░░   90.57 % 
-GitIgnore file           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Java                     14 hrs 6 mins       ███████████████████████░░   91.85 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+CLASS                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 36 mins      ███████████████████████░░   91.21 % 
-VS Code                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+IntelliJ IDEA            13 hrs 39 mins      ██████████████████████░░░   88.94 % 
+VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/10/2026 00:52:59 UTC
+ Last Updated on 13/10/2026 22:58:35 UTC
 <!--END_SECTION:waka-->
 
 
