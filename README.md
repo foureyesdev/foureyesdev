@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,24 +39,24 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     16 hrs 57 mins      ███████████████████████░░   91.20 % 
-GitIgnore file           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Java                     17 hrs 29 mins      ███████████████████████░░   90.57 % 
+GitIgnore file           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 36 mins      ████████████████████████░   94.74 % 
-VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+IntelliJ IDEA            17 hrs 36 mins      ███████████████████████░░   91.21 % 
+VS Code                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/10/2026 22:11:26 UTC
+ Last Updated on 13/10/2026 00:52:59 UTC
 <!--END_SECTION:waka-->
 
 
