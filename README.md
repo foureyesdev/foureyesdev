@@ -9,11 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2029%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 740 Bytes Used in GitHub's Storage 
+> 📦 741 Bytes Used in GitHub's Storage 
  > 
 > 🏆 274 Contributions in the Year 2026
  > 
@@ -39,23 +39,23 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     23 hrs 15 mins      █████████████████████░░░░   84.42 % 
-XML                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-GitIgnore file           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Java                     29 hrs 42 mins      ████████████████████░░░░░   81.90 % 
+Markdown                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+XML                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+GitIgnore file           42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-IntelliJ IDEA            26 hrs 49 mins      ████████████████████████░   97.39 % 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+IntelliJ IDEA            35 hrs 35 mins      █████████████████████████   98.16 % 
+Copilot CLI              40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/10/2026 20:56:02 UTC
+ Last Updated on 19/10/2026 22:31:37 UTC
 <!--END_SECTION:waka-->
 
 
