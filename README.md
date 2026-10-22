@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,23 +39,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     32 hrs 45 mins      ████████████████████░░░░░   81.91 % 
-XML                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-SQL                      43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Java                     35 hrs 25 mins      █████████████████████░░░░   83.44 % 
+Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+XML                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+SQL                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-IntelliJ IDEA            39 hrs 13 mins      █████████████████████████   98.08 % 
-Copilot CLI              46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+IntelliJ IDEA            41 hrs 36 mins      █████████████████████████   98.02 % 
+Copilot CLI              50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Windows                  39 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/10/2026 21:52:14 UTC
+ Last Updated on 22/10/2026 21:48:02 UTC
 <!--END_SECTION:waka-->
 
 
