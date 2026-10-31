@@ -9,11 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,css,html,js,docker,aws,git,bash,idea,postman,vscode,figma&perline=5)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 787 Bytes Used in GitHub's Storage 
+> 📦 788 Bytes Used in GitHub's Storage 
  > 
 > 🏆 295 Contributions in the Year 2026
  > 
@@ -39,22 +39,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     52 hrs 13 mins      ████████████████████░░░░░   79.94 % 
-SQL                      6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-YAML                     3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-XML                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Java                     50 hrs 26 mins      █████████████████████░░░░   83.67 % 
+SQL                      3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+YAML                     3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Markdown                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+XML                      58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-IntelliJ IDEA            53 hrs 49 mins      █████████████████████░░░░   82.39 % 
-Copilot CLI              11 hrs 30 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+IntelliJ IDEA            49 hrs 36 mins      █████████████████████░░░░   82.29 % 
+Copilot CLI              10 hrs 40 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 
 💻 Operating System: 
-Windows                  65 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  60 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/10/2026 22:31:51 UTC
+ Last Updated on 31/10/2026 21:46:36 UTC
 <!--END_SECTION:waka-->
 
 
